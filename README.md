@@ -1,6 +1,9 @@
 # CPython C Extension Exercises
 
+
 Learning CPython internals by implementing Python modules and types in C using the Python/C API.
+
+Disclaimer: The most of repo scaffolds were created by Claude. There is no pretense of this repo being precise, accurate and full course on the topic.
 
 ## How each exercise works
 
